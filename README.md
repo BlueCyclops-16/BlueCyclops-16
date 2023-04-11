@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daksh Singh
-- 👀 I’m interested in web development and java development.
+- 👀 I’m interested in DSA and web development.
 - 🌱 I’m currently learning data structures, oops concept and React.
 - 💞️ I’m looking to collaborate on React or javascript based web applications.
 - 📫 You can reach me on my LinkedIn or my Instagram (_daksh_singh.__)
